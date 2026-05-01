@@ -4,14 +4,28 @@
       "name": "fmhy",
       "url": "https://fmhy.net/",
       "image": "assets/Images/Explore/fmhy.webp",
-      "description": "Curated index of tools, software, and online resources across the internet.\nHelps you discover sites for media, utilities, learning, and digital tools.\nOrganized for quick browsing and efficient resource discovery.",
+      "description": "Massive curated directory of tools, software, and online resources.\nOrganized collection for discovering media, utilities, and digital services.\nActs as a central hub for finding categorized internet resources.",
+      "type": "explore"
+    },
+    {
+      "name": "everythingmoe",
+      "url": "https://everythingmoe.com/",
+      "image": "assets/Images/Explore/everythingmoe.webp",
+      "description": "Curated collection of links and resources focused on internet discovery.\nGroups various tools, media sources, and online utilities in one place.\nDesigned for quick browsing and exploring categorized web content.",
+      "type": "explore"
+    },
+    {
+      "name": "wotaku",
+      "url": "https://wotaku.wiki/",
+      "image": "assets/Images/Explore/wotaku.webp",
+      "description": "Wiki-style index of curated internet resources and themed collections.\nFocuses on organized discovery of tools, media, and niche content.\nUseful for browsing structured lists of categorized online resources.",
       "type": "explore"
     },
     {
       "name": "internet archive",
       "url": "https://archive.org/",
       "image": "assets/Images/Explore/iarchive.webp",
-      "description": "Curated index of tools, software, and online resources across the internet.\nHelps you discover sites for media, utilities, learning, and digital tools.\nOrganized for quick browsing and efficient resource discovery.",
+      "description": "Digital archive preserving websites, books, media, and historical internet data.\nIncludes the Wayback Machine for viewing past versions of websites.\nUseful for research, recovery, and exploring archived digital content.",
       "type": "explore"
     }
   ]
