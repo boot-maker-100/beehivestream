@@ -1,0 +1,110 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>BeeHive</title>
+
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/js/all.min.js"></script>
+
+    <link rel="stylesheet" href="assets/css/styles.css" />
+    <script src="assets/js/script.js" defer></script>
+  </head>
+
+  <body>
+    <header class="nav">
+      <h1>BeeHive</h1>
+
+      <div class="links">
+        <a href="#" target="_blank" rel="noopener noreferrer">
+          <i class="fa-brands fa-github"></i>
+          <span>GitHub</span>
+        </a>
+      </div>
+    </header>
+
+    <section class="hero">
+      <h2>Everything. One place.</h2>
+      <p>No clutter. Just access.</p>
+    </section>
+
+    <main class="grid">
+      <button type="button" class="tile" data-section="movies">
+        <i class="fa-solid fa-film"></i>
+        <span>Movies & Shows</span>
+      </button>
+
+      <button type="button" class="tile" data-section="kdrama">
+        <i class="fa-solid fa-clapperboard"></i>
+        <span>Asian Drama</span>
+      </button>
+
+      <button type="button" class="tile" data-section="anime">
+        <i class="fa-solid fa-dragon"></i>
+        <span>Anime</span>
+      </button>
+
+      <button type="button" class="tile" data-section="livetv">
+        <i class="fa-solid fa-satellite-dish"></i>
+        <span>Live TV</span>
+      </button>
+
+      <button type="button" class="tile" data-section="books">
+        <i class="fa-solid fa-book"></i>
+        <span>Books</span>
+      </button>
+
+      <button type="button" class="tile" data-section="games">
+        <i class="fa-solid fa-gamepad"></i>
+        <span>Games</span>
+      </button>
+
+      <button type="button" class="tile" data-section="music">
+        <i class="fa-solid fa-music"></i>
+        <span>Music</span>
+      </button>
+
+      <button type="button" class="tile" data-section="software">
+        <i class="fa-solid fa-laptop-code"></i>
+        <span>Software</span>
+      </button>
+
+      <button type="button" class="tile" data-section="privacy">
+        <i class="fa-solid fa-shield-halved"></i>
+        <span>Privacy</span>
+      </button>
+
+      <button type="button" class="tile" data-section="learning">
+        <i class="fa-solid fa-graduation-cap"></i>
+        <span>Learning</span>
+      </button>
+
+      <button type="button" class="tile" data-section="utilities">
+        <i class="fa-solid fa-wrench"></i>
+        <span>Utilities</span>
+      </button>
+
+      <button type="button" class="tile" data-section="explore">
+        <i class="fa-solid fa-compass"></i>
+        <span>Explore</span>
+      </button>
+    </main>
+
+    <footer>
+      <p>Built without overthinking (hopefully)</p>
+      <!-- another lie -->
+    </footer>
+
+    <!-- OVERLAY -->
+    <div id="overlay" class="overlay">
+      <div class="overlay-content">
+        <button type="button" class="close-btn" aria-label="Close overlay">
+          ✕
+        </button>
+
+        <h2 id="overlay-title" class="overlay-title"></h2>
+        <div class="overlay-body"></div>
+      </div>
+    </div>
+  </body>
+</html>

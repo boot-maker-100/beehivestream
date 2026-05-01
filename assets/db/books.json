@@ -1,0 +1,46 @@
+{
+  "items": [
+    {
+      "name": "z-lib.fm",
+      "url": "https://z-lib.fm/",
+      "image": "assets/Images/Books/z-lib.fm.webp",
+      "description": "Read and explore libraries. If a link doesn’t work, click the title to find the latest site, since domains often change or move. Title search helps you find the working version quickly.",
+      "type": "book"
+    },
+    {
+      "name": "annas-archive",
+      "url": "https://annas-archive.gl/",
+      "image": "assets/Images/Books/annas-archive.webp",
+      "description": "Read and explore libraries. If a link doesn’t work, click the title to find the latest site, since domains often change or move. Title search helps you find the working version quickly.",
+      "type": "book"
+    },
+    {
+      "name": "libgen.li",
+      "url": "https://libgen.li/",
+      "image": "assets/Images/Books/libgen.li.webp",
+      "description": "Read and explore libraries. If a link doesn’t work, click the title to find the latest site, since domains often change or move. Title search helps you find the working version quickly.",
+      "type": "book"
+    },
+    {
+      "name": "ebook-hunter",
+      "url": "https://ebook-hunter.org/",
+      "image": "assets/Images/Books/ebook-hunter.webp",
+      "description": "Read and explore libraries. If a link doesn’t work, click the title to find the latest site, since domains often change or move. Title search helps you find the working version quickly.",
+      "type": "book"
+    },
+    {
+      "name": "audiobookbay",
+      "url": "https://audiobookbay.lu/",
+      "image": "assets/Images/Books/audiobookbay.webp",
+      "description": "Read and explore libraries. If a link doesn’t work, click the title to find the latest site, since domains often change or move. Title search helps you find the working version quickly.",
+      "type": "audiobook"
+    },
+    {
+      "name": "nepu.to",
+      "url": "https://nepu.to/ebooks",
+      "image": "assets/Images/Books/nepu.to.webp",
+      "description": "Read and explore libraries. If a link doesn’t work, click the title to find the latest site, since domains often change or move. Title search helps you find the working version quickly.",
+      "type": "audiobook"
+    }
+  ]
+}

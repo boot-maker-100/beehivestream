@@ -1,0 +1,67 @@
+{
+  "items": [
+    {
+      "name": "aniwatch",
+      "url": "https://aniwatch.co.at/",
+      "image": "assets/Images/Anime/aniwatch.webp",
+      "description": "Stream Anime and Shows. If a link doesn’t work, click the title to find the latest site, since domains often change or move. Title search helps you find the working version quickly.",
+      "type": "stream"
+    },
+    {
+      "name": "anime.nexus",
+      "url": "https://anime.nexus/",
+      "image": "assets/Images/Anime/anime.nexus.webp",
+      "description": "Stream Anime and Shows. If a link doesn’t work, click the title to find the latest site, since domains often change or move. Title search helps you find the working version quickly.",
+      "type": "stream"
+    },
+    {
+      "name": "miruro",
+      "url": "https://www.miruro.to/",
+      "image": "assets/Images/Anime/miruro.webp",
+      "description": "Stream Anime and Shows. If a link doesn’t work, click the title to find the latest site, since domains often change or move. Title search helps you find the working version quickly.",
+      "type": "stream"
+    },
+    {
+      "name": "animekai",
+      "url": "https://animekai.to/home",
+      "image": "assets/Images/Anime/animekai.webp",
+      "description": "Stream Anime and Shows. If a link doesn’t work, click the title to find the latest site, since domains often change or move. Title search helps you find the working version quickly.",
+      "type": "stream"
+    },
+    {
+      "name": "anikuro",
+      "url": "https://anikuro.to/top/",
+      "image": "assets/Images/Anime/anikuro.webp",
+      "description": "Stream Anime and Shows. If a link doesn’t work, click the title to find the latest site, since domains often change or move. Title search helps you find the working version quickly.",
+      "type": "stream"
+    },
+    {
+      "name": "anizone",
+      "url": "https://anizone.to/",
+      "image": "assets/Images/Anime/anizone.webp",
+      "description": "Stream Anime and Shows. If a link doesn’t work, click the title to find the latest site, since domains often change or move. Title search helps you find the working version quickly.",
+      "type": "stream"
+    },
+    {
+      "name": "animetsu",
+      "url": "https://animetsu.bz/",
+      "image": "assets/Images/Anime/animetsu.webp",
+      "description": "Stream Anime and Shows. If a link doesn’t work, click the title to find the latest site, since domains often change or move. Title search helps you find the working version quickly.",
+      "type": "stream"
+    },
+    {
+      "name": "animex",
+      "url": "https://animex.one/home",
+      "image": "assets/Images/Anime/animex.webp",
+      "description": "Stream Anime and Shows. If a link doesn’t work, click the title to find the latest site, since domains often change or move. Title search helps you find the working version quickly.",
+      "type": "stream"
+    },
+    {
+      "name": "nyaa.si",
+      "url": "https://nyaa.si/",
+      "image": "assets/Images/Anime/nyaa.si.webp",
+      "description": "Download Anime and Shows. If a link doesn’t work, click the title to find the latest site, since domains often change or move. Title search helps you find the working version quickly.",
+      "type": "download"
+    }
+  ]
+}

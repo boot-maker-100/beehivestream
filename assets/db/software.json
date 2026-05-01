@@ -1,0 +1,67 @@
+{
+  "items": [
+    {
+      "name": "getintopc",
+      "url": "https://getintopc.com/",
+      "image": "assets/Images/Software/getintopc.webp",
+      "description": "Find useful Software to download. If a link doesn’t work, click the title to find the latest site, since domains often change or move. Title search helps you find the working version quickly.",
+      "type": "download"
+    },
+    {
+      "name": "majorgeeks",
+      "url": "https://www.majorgeeks.com/",
+      "image": "assets/Images/Software/majorgeeks.webp",
+      "description": "Find useful Software to download. If a link doesn’t work, click the title to find the latest site, since domains often change or move. Title search helps you find the working version quickly.",
+      "type": "download"
+    },
+    {
+      "name": "cracksurl",
+      "url": "https://cracksurl.com/",
+      "image": "assets/Images/Software/cracksurl.webp",
+      "description": "Find useful Software to download. If a link doesn’t work, click the title to find the latest site, since domains often change or move. Title search helps you find the working version quickly.",
+      "type": "download"
+    },
+    {
+      "name": "l-repacks",
+      "url": "https://lrepacks.net/",
+      "image": "assets/Images/Software/lrepacks.webp",
+      "description": "Find useful Software to download. If a link doesn’t work, click the title to find the latest site, since domains often change or move. Title search helps you find the working version quickly.",
+      "type": "download"
+    },
+    {
+      "name": "ninite",
+      "url": "https://ninite.com/",
+      "image": "assets/Images/Software/ninite.webp",
+      "description": "Find useful Software to download. If a link doesn’t work, click the title to find the latest site, since domains often change or move. Title search helps you find the working version quickly.",
+      "type": "download"
+    },
+    {
+      "name": "virgil.samidy",
+      "url": "https://virgil.samidy.com/Software/",
+      "image": "assets/Images/Software/virgil.samidy.webp",
+      "description": "Find useful Software to download. If a link doesn’t work, click the title to find the latest site, since domains often change or move. Title search helps you find the working version quickly.",
+      "type": "download"
+    },
+    {
+      "name": "snapfiles",
+      "url": "https://www.snapfiles.com/",
+      "image": "assets/Images/Software/snapfiles.webp",
+      "description": "Find useful Software to download. If a link doesn’t work, click the title to find the latest site, since domains often change or move. Title search helps you find the working version quickly.",
+      "type": "download"
+    },
+    {
+      "name": "filecr",
+      "url": "https://filecr.com/home/",
+      "image": "assets/Images/Software/filecr.webp",
+      "description": "Find useful Software to download. If a link doesn’t work, click the title to find the latest site, since domains often change or move. Title search helps you find the working version quickly.",
+      "type": "download"
+    },
+    {
+      "name": "adobe-alternatives",
+      "url": "https://github.com/KenneyNL/Adobe-Alternatives",
+      "image": "assets/Images/Software/adobe-alternatives.webp",
+      "description": "Find useful Software to download. If a link doesn’t work, click the title to find the latest site, since domains often change or move. Title search helps you find the working version quickly.",
+      "type": "download"
+    }
+  ]
+}

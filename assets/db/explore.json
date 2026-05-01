@@ -1,0 +1,18 @@
+{
+  "items": [
+    {
+      "name": "fmhy",
+      "url": "https://fmhy.net/",
+      "image": "assets/Images/Explore/fmhy.webp",
+      "description": "Curated index of tools, software, and online resources across the internet.\nHelps you discover sites for media, utilities, learning, and digital tools.\nOrganized for quick browsing and efficient resource discovery.",
+      "type": "explore"
+    },
+    {
+      "name": "internet archive",
+      "url": "https://archive.org/",
+      "image": "assets/Images/Explore/iarchive.webp",
+      "description": "Curated index of tools, software, and online resources across the internet.\nHelps you discover sites for media, utilities, learning, and digital tools.\nOrganized for quick browsing and efficient resource discovery.",
+      "type": "explore"
+    }
+  ]
+}

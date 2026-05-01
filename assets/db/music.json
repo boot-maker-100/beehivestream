@@ -1,0 +1,46 @@
+{
+  "items": [
+    {
+      "name": "Youtube Music",
+      "url": "https://music.youtube.com/",
+      "image": "assets/Images/Music/ymusic.webp",
+      "description": "Stream Music and Explore. If a link doesn’t work, click the title to find the latest site, since domains often change or move. Title search helps you find the working version quickly.",
+      "type": "stream"
+    },
+    {
+      "name": "Reddit Music",
+      "url": "https://musicplayer.io/",
+      "image": "assets/Images/Music/redditmusic.webp",
+      "description": "Stream Music and Explore. If a link doesn’t work, click the title to find the latest site, since domains often change or move. Title search helps you find the working version quickly.",
+      "type": "stream"
+    },
+    {
+      "name": "soundcloud",
+      "url": "https://soundcloud.com/",
+      "image": "assets/Images/Music/soundcloud.webp",
+      "description": "Stream Music and Explore. If a link doesn’t work, click the title to find the latest site, since domains often change or move. Title search helps you find the working version quickly.",
+      "type": "stream"
+    },
+    {
+      "name": "artist grid",
+      "url": "https://artistgrid.cx/",
+      "image": "assets/Images/Music/artistgrid.webp",
+      "description": "Stream Music and Explore. If a link doesn’t work, click the title to find the latest site, since domains often change or move. Title search helps you find the working version quickly.",
+      "type": "stream"
+    },
+    {
+      "name": "anixtv",
+      "url": "https://anixtv.us.cc/music",
+      "image": "assets/Images/Music/anixtv.webp",
+      "description": "Stream Music and Explore. If a link doesn’t work, click the title to find the latest site, since domains often change or move. Title search helps you find the working version quickly.",
+      "type": "stream"
+    },
+    {
+      "name": "spotify",
+      "url": "https://open.spotify.com/",
+      "image": "assets/Images/Music/spotify.webp",
+      "description": "Stream Music and Explore. If a link doesn’t work, click the title to find the latest site, since domains often change or move. Title search helps you find the working version quickly.",
+      "type": "stream"
+    }
+  ]
+}

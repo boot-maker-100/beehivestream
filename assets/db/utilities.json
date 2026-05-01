@@ -1,0 +1,46 @@
+{
+  "items": [
+    {
+      "name": "ilovepdf",
+      "url": "https://www.ilovepdf.com/",
+      "image": "assets/Images/Utilities/ilovepdf.webp",
+      "description": "Merge, split, compress, and convert PDFs with simple browser-based tools.",
+      "type": "utilities"
+    },
+    {
+      "name": "LightPDF",
+      "url": "https://lightpdf.com/tools",
+      "image": "assets/Images/Utilities/lightpdf.webp",
+      "description": "All-in-one PDF toolkit. Convert, edit, compress, merge, and sign PDFs directly in your browser.",
+      "type": "utilities"
+    },
+    {
+      "name": "ImageColorPicker",
+      "url": "https://imagecolorpicker.com/",
+      "image": "assets/Images/Utilities/imagecolorpicker.webp",
+      "description": "Pick exact colors from images and get HEX, RGB, and other values instantly.",
+      "type": "utilities"
+    },
+    {
+      "name": "BulkResizePhotos",
+      "url": "https://bulkresizephotos.com/",
+      "image": "assets/Images/Utilities/bulkresizephotos.webp",
+      "description": "Resize, crop, and compress multiple images in bulk directly in your browser.",
+      "type": "utilities"
+    },
+    {
+      "name": "OnlineOCR",
+      "url": "https://www.onlineocr.net/",
+      "image": "assets/Images/Utilities/onlineocr.webp",
+      "description": "Extract text from images, PDFs, and scans using OCR with quick file conversion.",
+      "type": "utilities"
+    },
+    {
+      "name": "pairdrop",
+      "url": "https://pairdrop.net/",
+      "image": "assets/Images/Utilities/pairdrop.webp",
+      "description": "Send files instantly between devices over WiFi with no setup or login.",
+      "type": "utilities"
+    }
+  ]
+}

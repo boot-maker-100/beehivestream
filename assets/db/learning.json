@@ -1,0 +1,46 @@
+{
+  "items": [
+    {
+      "name": "freecodecamp",
+      "url": "https://www.freecodecamp.org/",
+      "image": "assets/Images/Learning/freecodecamp.webp",
+      "description": "Free interactive platform for learning web development and programming.\nCovers HTML, CSS, JavaScript, Python, and more through hands-on practice.\nIncludes projects and certifications to build real-world coding skills.",
+      "type": "learning"
+    },
+    {
+      "name": "C#: From Zero To Hero",
+      "url": "https://github.com/Almantask/CSharp-From-Zero-To-Hero",
+      "image": "assets/Images/Learning/csharp_fundamentals_roadmap.webp",
+      "description": "Structured learning path for mastering C# from basics to advanced concepts.\nIncludes explanations, examples, and practical coding exercises.\nUseful for building strong fundamentals in object-oriented programming.",
+      "type": "learning"
+    },
+    {
+      "name": "geeksforgeeks",
+      "url": "https://www.geeksforgeeks.org/",
+      "image": "assets/Images/Learning/geeksforgeeks.webp",
+      "description": "Computer science learning platform covering data structures, algorithms, and programming concepts.\nIncludes tutorials, coding problems, and interview preparation material.\nUseful for strengthening problem-solving and technical fundamentals.",
+      "type": "learning"
+    },
+    {
+      "name": "devdocs",
+      "url": "https://devdocs.io/",
+      "image": "assets/Images/Learning/devdocs.webp",
+      "description": "Developer reference tool for official documentation across programming languages and frameworks.\nEnables quick lookup of APIs, functions, and syntax in one unified search interface.\nUseful for real-time coding, debugging, and development workflow efficiency.",
+      "type": "learning"
+    },
+    {
+      "name": "leetCode",
+      "url": "https://leetcode.com/",
+      "image": "assets/Images/Learning/leetcode.webp",
+      "description": "Platform for practicing coding problems and interview questions.\nFocuses on algorithms, data structures, and problem-solving skills.\nWidely used for software engineering interview preparation.",
+      "type": "learning"
+    },
+    {
+      "name": "Codewars",
+      "url": "https://www.codewars.com/",
+      "image": "assets/Images/Learning/codewars.webp",
+      "description": "Gamified coding challenge platform with increasing difficulty levels.\nHelps improve logic, syntax, and problem-solving through practice.\nSupports multiple programming languages and community solutions.",
+      "type": "learning"
+    }
+  ]
+}

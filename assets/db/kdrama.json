@@ -1,0 +1,60 @@
+{
+  "items": [
+    {
+      "name": "asiaflix",
+      "url": "https://asiaflix.net/home",
+      "image": "assets/Images/Kdrama/asiaflix.webp",
+      "description": "Stream K-Drama Shows. If a link doesn’t work, click the title to find the latest site, since domains often change or move. Title search helps you find the working version quickly.",
+      "type": "stream"
+    },
+    {
+      "name": "goplay",
+      "url": "https://goplay.su/",
+      "image": "assets/Images/Kdrama/goplay.webp",
+      "description": "Stream K-Drama Shows. If a link doesn’t work, click the title to find the latest site, since domains often change or move. Title search helps you find the working version quickly.",
+      "type": "stream"
+    },
+    {
+      "name": "kissasian",
+      "url": "https://ww14.kissasian.com.lv/",
+      "image": "assets/Images/Kdrama/kissasian.webp",
+      "description": "Stream K-Drama Shows. If a link doesn’t work, click the title to find the latest site, since domains often change or move. Title search helps you find the working version quickly.",
+      "type": "stream"
+    },
+    {
+      "name": "dramacooll",
+      "url": "https://dramacooll.fun/",
+      "image": "assets/Images/Kdrama/dramacooll.webp",
+      "description": "Stream K-Drama Shows. If a link doesn’t work, click the title to find the latest site, since domains often change or move. Title search helps you find the working version quickly.",
+      "type": "stream"
+    },
+    {
+      "name": "myasian.tv",
+      "url": "https://myasiantv.com.bz/",
+      "image": "assets/Images/Kdrama/myasiantv.webp",
+      "description": "Stream K-Drama Shows. If a link doesn’t work, click the title to find the latest site, since domains often change or move. Title search helps you find the working version quickly.",
+      "type": "stream"
+    },
+    {
+      "name": "kisskh.club",
+      "url": "https://kisskh.club/",
+      "image": "assets/Images/Kdrama/kisskh.club.webp",
+      "description": "Stream K-Drama Shows. If a link doesn’t work, click the title to find the latest site, since domains often change or move. Title search helps you find the working version quickly.",
+      "type": "stream"
+    },
+    {
+      "name": "asianc.tv",
+      "url": "https://asianctv.cc/",
+      "image": "assets/Images/Kdrama/asianctv.webp",
+      "description": "Stream K-Drama Shows. If a link doesn’t work, click the title to find the latest site, since domains often change or move. Title search helps you find the working version quickly.",
+      "type": "stream"
+    },
+    {
+      "name": "kisskh.nl",
+      "url": "https://kisskh.nl/",
+      "image": "assets/Images/Kdrama/kisskh.nl.webp",
+      "description": "Stream K-Drama Shows. If a link doesn’t work, click the title to find the latest site, since domains often change or move. Title search helps you find the working version quickly.",
+      "type": "stream"
+    }
+  ]
+}

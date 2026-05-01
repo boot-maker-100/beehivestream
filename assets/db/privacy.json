@@ -1,0 +1,46 @@
+{
+  "items": [
+    {
+      "name": "brave browser",
+      "url": "https://brave.com/",
+      "image": "assets/Images/Privacy/brave.webp",
+      "description": "Privacy-focused browser with built-in ad and tracker blocking.\nBlocks most ads and trackers by default without extensions.\nFaster browsing with reduced data collection from websites.",
+      "type": "privacy"
+    },
+    {
+      "name": "proton mail",
+      "url": "https://proton.me/",
+      "image": "assets/Images/Privacy/protonmail.webp",
+      "description": "Encrypted email service that protects messages from third-party access.\nUses end-to-end encryption so only you and the recipient can read emails.\nDesigned to minimize metadata tracking and improve inbox privacy.",
+      "type": "privacy"
+    },
+    {
+      "name": "tutanota",
+      "url": "https://tuta.com/",
+      "image": "assets/Images/Privacy/tutanota.webp",
+      "description": "Secure email platform with full end-to-end encryption by default.\nFocuses on privacy-first communication without ads or data scanning.\nOpen-source system built to reduce exposure of user information.",
+      "type": "privacy"
+    },
+    {
+      "name": "Ghostery",
+      "url": "https://www.ghostery.com/",
+      "image": "assets/Images/Privacy/ghostery.webp",
+      "description": "Browser tool that detects and blocks hidden tracking scripts.\nShows which companies are tracking activity on each website.\nHelps improve privacy and page loading speed by removing trackers.",
+      "type": "privacy"
+    },
+    {
+      "name": "ublock origin",
+      "url": "https://ublockorigin.com/",
+      "image": "assets/Images/Privacy/ublockorigin.webp",
+      "description": "Lightweight content blocker for ads, trackers, and malicious scripts.\nHighly efficient filtering system with minimal performance impact.\nWorks across most browsers to clean up and secure web pages.",
+      "type": "privacy"
+    },
+    {
+      "name": "mullvad",
+      "url": "https://mullvad.net/en",
+      "image": "assets/Images/Privacy/mullvad.webp",
+      "description": "VPN service designed for strong anonymity and minimal user data collection.\nDoes not require personal information or email for account creation.\nEncrypts internet traffic and hides IP address from websites and ISPs.",
+      "type": "privacy"
+    }
+  ]
+}
