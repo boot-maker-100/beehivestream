@@ -62,6 +62,13 @@
       "image": "assets/Images/Anime/nyaa.si.webp",
       "description": "Download Anime and Shows. If a link doesn’t work, click the title to find the latest site, since domains often change or move. Title search helps you find the working version quickly.",
       "type": "download"
+    },
+    {
+      "name": "shanaproject",
+      "url": "https://www.shanaproject.com/",
+      "image": "assets/Images/Anime/shanaproject.webp",
+      "description": "Download Anime and Shows. If a link doesn’t work, click the title to find the latest site, since domains often change or move. Title search helps you find the working version quickly.",
+      "type": "download"
     }
   ]
 }
